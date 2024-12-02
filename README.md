@@ -1,6 +1,6 @@
- E-Commerce Product Listing & Purchase System
+> E-Commerce Product Listing 
 
- This project is an e-commerce web application where users can browse products, apply filters, view product details, add products to their cart,
+This project is an e-commerce web application where users can browse products, apply filters, view product details, add products to their cart,
 
 Features:
 
