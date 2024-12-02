@@ -2,7 +2,8 @@
 
  This project is an e-commerce web application where users can browse products, apply filters, view product details, add products to their cart,
 
- Key Features:
+Features:
+
 Product Fetching & Display:
 
 Products are fetched from an API and dynamically displayed on the homepage.
